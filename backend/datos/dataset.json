@@ -375,6 +375,10 @@
         {
             "nombre": "aceituna",
             "imagen": "ingredientes/175001958.png"
+        },
+        {
+            "nombre": "surubi",
+            "imagen": "ingredientes/surubi.png"
         }
     ],
     "recetas": [
@@ -978,7 +982,7 @@
                 "tomate",
                 "sal"
             ],
-            "imagen": "recetas/chola.png"
+            "imagen": "recetas/chola.jpg"
         },
         {
             "receta": "lawa de choclo",
@@ -995,7 +999,7 @@
                 "perejil",
                 "habas"
             ],
-            "imagen": "recetas/lawa.png"
+            "imagen": "recetas/lawa.jpg"
         },
         {
             "receta": "chicharron de surubi",
@@ -1009,11 +1013,11 @@
                 "aceite de girasol",
                 "sal"            
             ],
-            "imagen": "recetas/surubi.png"
+            "imagen": "recetas/chichaSurubi.jpg"
         },
         {
             "receta": "locro de gallina",
-            "procedimiento": "En la licuadora vamos a moler la cebolla, el tomate y el pimentón. en una fuente ponemos la carne molida y agregamos la preparación que hicimos en la licuadora, agregamos 2 huevos y sal a gusto, mezclamos bien, si nota que esta un poco jugosa la carne le añadimos un poco de pan molido, mezclamos bien para que se integren todos los ingredientes, cuando este listo formamos las bolitas de carne. con la ayuda de una bolsa plástica apelamos las milanesas, las freímos en aceite caliente. y por último, servir acompañado de arroz, huevo frito, papa y sarza de cebolla, tomate y pimentón o locoto.",
+            "procedimiento": "Picar las cebolla, tomate y zanahoria. Cocer carne de pollo en una olla con agua junto a las verduras picadas y sal. Picar y freir cebolla, tomate y ajo con los condimentos, agregar al caldo. Cocer el arroz en la misma olla. Agregar la papa a la olla. Agregar un huevo hasta que cuaje y retirar del fuego. Cocinar yuca pelada en olla con agua aparte. ",
             "ingredientes": [
                 "carne de pollo",
                 "arroz",
@@ -1024,9 +1028,12 @@
                 "cebolla",
                 "tomate",
                 "ajo",
-                "sal"
+                "sal",
+                "ají amarillo molido",
+                "comino molido",
+                "zanahoria"
             ],
-            "imagen": "recetas/locro.png"
+            "imagen": "recetas/locro.jpg"
         },
         {
             "receta": "chanca de pollo",
@@ -1041,7 +1048,7 @@
                 "pan molido",
                 "huevo"
             ],
-            "imagen": "recetas/1750210153.png"
+            "imagen": "recetas/chanca.jpeg"
         },
         {
             "receta": "ají de panza",
@@ -1065,7 +1072,7 @@
                 "ajo en polvo",
                 "ají rojo molido"
             ],
-            "imagen": "recetas/1750173515.jpg"
+            "imagen": "recetas/ajipanza.jpg"
         },
         {
             "receta": "ranga ranga",
@@ -1089,7 +1096,7 @@
                 "ajo en polvo",
                 "ají rojo molido"
             ],
-            "imagen": "recetas/1750173515.jpg"
+            "imagen": "recetas/ranga.jpeg"
         },
         {
             "receta": "falso conejo",
@@ -1113,31 +1120,7 @@
                 "ajo en polvo",
                 "ají rojo molido"
             ],
-            "imagen": "recetas/1750173515.jpg"
-        },
-        {
-            "receta": "pectu de habas",
-            "procedimiento": "cocer las papas en agua caliente hasta que estén tiernas. en paralelo, tostar el fideo y cocerlo en agua hirviendo junto con la zanahoria. picar el tomate, locoto, cebolla y ajos, añadir las arvejas y sofreírlos en aceite con ajo en polvo, cebolla en polvo, sal y pimienta. agregar la carne molida, mezclar y cocer por 5 minutos. luego, incorporar el fideo cocido y las papas. añadir el ají rojo molido y media taza de agua, mezclar y cocinar a fuego medio hasta reducir líquidos. servir adornado con cebollín picado.",
-            "ingredientes": [
-                "fideo",
-                "carne molida",
-                "arveja",
-                "zanahoria",
-                "cebolla",
-                "ajo",
-                "papa",
-                "locoto",
-                "tomate",
-                "cebollín",
-                "agua",
-                "aceite de girasol",
-                "sal",
-                "pimienta",
-                "cebolla en polvo",
-                "ajo en polvo",
-                "ají rojo molido"
-            ],
-            "imagen": "recetas/1750173515.jpg"
+            "imagen": "recetas/falsoConejo.jpeg"
         }
     ]
 }
