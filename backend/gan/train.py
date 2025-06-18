@@ -124,8 +124,8 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
                 ingredientes = sample["ingredientes"]
                 real_receta = sample["procedimiento"]
                 prompt = (
-                    f"<RECIPE_START> {nombre} <RECIPE_END>\n"
                     f"<INPUTS> {ingredientes} <INPUTS_END>\n"
+                    f"<RECIPE_START> {nombre} <RECIPE_END>\n"
                     f"<INSTRUCTIONS> {real_receta} <INSTRUCTIONS_END>"
                 )
                 prompts.append(prompt)
