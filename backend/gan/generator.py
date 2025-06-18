@@ -43,7 +43,7 @@ class RecipeGenerator:
             )
         
         text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-        return text.strip()
+        return self._extract_recipe_parts(text.strip())
 
     def save(self, path):
         self.model.save_pretrained(path)
@@ -55,3 +55,29 @@ class RecipeGenerator:
         
         if self.tokenizer.pad_token is None:
             self.tokenizer.pad_token = self.tokenizer.eos_token
+    def _extract_recipe_parts(self, text):
+        """Extrae el nombre y procedimiento de la receta generada"""
+        nombre = ""
+        procedimiento = ""
+        
+        # Buscar el nombre de la receta
+        if "<RECIPE_START>" in text and "<RECIPE_END>" in text:
+            start_idx = text.find("<RECIPE_START>") + len("<RECIPE_START>")
+            end_idx = text.find("<RECIPE_END>")
+            nombre = text[start_idx:end_idx].strip()
+        
+        # Buscar las instrucciones
+        if "<INSTRUCTIONS>" in text:
+            start_idx = text.find("<INSTRUCTIONS>") + len("<INSTRUCTIONS>")
+            if "<INSTRUCTIONS_END>" in text:
+                end_idx = text.find("<INSTRUCTIONS_END>")
+                procedimiento = text[start_idx:end_idx].strip()
+            else:
+                # Si no hay tag de cierre, tomar el resto del texto
+                procedimiento = text[start_idx:].strip()
+        
+        return {
+            "nombre": nombre if nombre else "Receta sin nombre",
+            "procedimiento": procedimiento if procedimiento else "No se generó procedimiento",
+            "texto_completo": text
+        }

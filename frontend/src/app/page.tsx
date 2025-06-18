@@ -64,7 +64,7 @@ export default function RecipeChat() {
         ingredientes: selectedIngredients.map((i) => i.nombre).join(", "),
         modelo: selectedModel,
         temperatura: temperature.toString(),
-        max_length: "256",
+        max_length: "512",
       })
 
       const response = await fetch("http://localhost:8000/generar-receta", {
@@ -80,7 +80,7 @@ export default function RecipeChat() {
         {
           id: Date.now() + 1,
           type: "assistant",
-          content: data.receta || "No se pudo generar la receta. Intenta de nuevo.",
+          content: data.receta ? `**${data.receta.nombre}**\n\n${data.receta.procedimiento}` : "No se pudo generar la receta. Intenta de nuevo.",
         },
       ])
     } catch {
