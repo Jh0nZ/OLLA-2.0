@@ -387,6 +387,10 @@
         {
             "nombre": "almidón de yuca",
             "imagen": "ingredientes/1750232910.png"
+        },
+        {
+            "nombre": "pan",
+            "imagen": "ingredientes/1750233839.png"
         }
     ],
     "recetas": [
@@ -1118,6 +1122,24 @@
                 "queso"
             ],
             "imagen": "recetas/1750233497.png"
+        },
+        {
+            "receta": "trancapecho",
+            "procedimiento": "condimenta la carne molida con sal y pimienta, forma bolitas medianas, aplánalas ligeramente y empánalas con pan molido; lava las papas, cuécelas con cáscara hasta que estén tiernas, pélalas, córtalas en rodajas de 1 cm y fríelas con sal hasta que estén doradas; lava el arroz, tuéstalo sin aceite hasta dorar ligeramente, cocínalo con 3 tazas de agua caliente y sal, y si es necesario añade agua fría poco a poco hasta que esté cocido; fríe las bolitas de carne en aceite caliente hasta que estén doradas y cocidas por dentro, y en la misma sartén fríe los huevos al gusto; prepara la llajua licuando tomates, locotos, quirquiña y sal hasta lograr la textura deseada; para armar el trancapecho, corta el pan por la mitad y coloca carne, un huevo frito, arroz, cebolla picada, tomate en rodajas, locoto, papas fritas y un poco de llajua.",
+            "ingredientes": [
+                "carne molida",
+                "huevo",
+                "papa",
+                "pan molido",
+                "sal",
+                "pimienta",
+                "arroz",
+                "cebolla",
+                "tomate",
+                "locoto",
+                "pan"
+            ],
+            "imagen": "recetas/1750233983.png"
         }
     ]
 }
