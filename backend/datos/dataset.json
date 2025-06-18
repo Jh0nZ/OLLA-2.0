@@ -383,6 +383,10 @@
         {
             "nombre": "panza de res",
             "imagen": "ingredientes/panzaRes.png"
+        },
+        {
+            "nombre": "almidón de yuca",
+            "imagen": "ingredientes/1750232910.png"
         }
     ],
     "recetas": [
@@ -1015,7 +1019,7 @@
                 "harina de maiz",
                 "harina de trigo",
                 "aceite de girasol",
-                "sal"            
+                "sal"
             ],
             "imagen": "recetas/chichaSurubi.jpg"
         },
@@ -1102,6 +1106,18 @@
                 "sal"
             ],
             "imagen": "recetas/falsoConejo.jpeg"
+        },
+        {
+            "receta": "cuñapé",
+            "procedimiento": "desmenuzar el queso fresco en una fuente, añadir el almidón de yuca, sal (si es necesario), azúcar y leche poco a poco hasta obtener una masa homogénea, suave y sin grumos; formar bolitas pequeñas, aplastarlas un poco y ponerlas sobre la lata enmantecada, separadas unas de otras. hornear a fuego fuerte hasta que los cuñapés estén dorados (25-30 minutos).",
+            "ingredientes": [
+                "almidón de yuca",
+                "azúcar",
+                "leche de vaca",
+                "sal",
+                "queso"
+            ],
+            "imagen": "recetas/1750233497.png"
         }
     ]
 }
