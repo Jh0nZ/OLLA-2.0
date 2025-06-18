@@ -1,0 +1,127 @@
+[
+    {
+        "ingredientes": "papa, arroz, carne de res, cebolla, tomate, huevo, pan rallado",
+        "receta": "silpancho",
+        "procedimiento": "Cocer arroz y papas peladas. Aplastar la carne de res, sazonarla y empanizarla con huevo y pan rallado. Freír la carne. Servir sobre arroz, con papa cocida y ensalada de tomate y cebolla."
+    },
+    {
+        "ingredientes": "carne de res, cebolla, tomate, salchicha, locoto, papa, cerveza",
+        "receta": "pique macho",
+        "procedimiento": "Freír papas en bastones. Saltear carne con cebolla, tomate, salchicha y locoto. Agregar cerveza y cocinar brevemente. Servir sobre las papas fritas."
+    },
+    {
+        "ingredientes": "maní, arroz, carne de res, arvejas, zanahoria, papa, cebolla",
+        "receta": "sopa de maní",
+        "procedimiento": "Tostar y moler maní. Cocinar con arroz, carne y verduras. Freír papa en bastones y añadir al final. Servir caliente."
+    },
+    {
+        "ingredientes": "pollo, papa, chuño, ají amarillo, cebolla, arvejas, ajo",
+        "receta": "sajta de pollo",
+        "procedimiento": "Cocer el pollo con ajo. Preparar salsa de ají con cebolla. Freír papa en rodajas. Servir pollo con salsa, papa y chuño remojado."
+    },
+    {
+        "ingredientes": "charque, mote de maíz, papa, huevo, queso, cebolla",
+        "receta": "charquecán",
+        "procedimiento": "Cocer el charque y desmenuzarlo. Servir con mote cocido, papa cocida, huevo duro y queso."
+    },
+    {
+        "ingredientes": "pollo, maíz pelado, zanahoria, habas, cebolla, orégano",
+        "receta": "chairo",
+        "procedimiento": "Cocer maíz pelado, añadir carne de pollo, verduras y chuño remojado. Cocinar lentamente hasta espesar."
+    },
+    {
+        "ingredientes": "pollo, fideo, ají amarillo, cebolla, papa, arvejas",
+        "receta": "ají de fideo",
+        "procedimiento": "Cocer pollo y reservar. Preparar una salsa con ají y cebolla. Agregar fideo cocido y arvejas. Servir con papa cocida."
+    },
+    {
+        "ingredientes": "carne de cerdo, mote de maíz, cebolla, ají rojo, ajo",
+        "receta": "fricasé",
+        "procedimiento": "Cocer carne con ajo y comino. Preparar una salsa espesa con ají rojo y cebolla. Servir con mote."
+    },
+    {
+        "ingredientes": "corazón de res, papa, maní, cebolla, ají colorado",
+        "receta": "anticucho",
+        "procedimiento": "Cortar corazón en láminas, marinar con ají y ajo. Asar en brasas. Servir con papa cocida y salsa de maní."
+    },
+    {
+        "ingredientes": "arroz, charque, cebolla, pimentón, huevo, plátano",
+        "receta": "majadito",
+        "procedimiento": "Freír charque desmenuzado, añadir arroz y verduras. Cocinar hasta que el arroz esté suave. Servir con plátano frito y huevo."
+    },
+    {
+        "ingredientes": "queso, arroz, leche, cebolla, manteca",
+        "receta": "arroz con queso",
+        "procedimiento": "Cocer arroz, mezclar con queso rallado y leche. Cocinar hasta que el queso se derrita. Servir caliente."
+    },
+    {
+        "ingredientes": "quinua, zanahoria, arvejas, cebolla, papa",
+        "receta": "sopa de quinua",
+        "procedimiento": "Lavar y cocer quinua con verduras picadas. Sazonar con sal. Servir caliente."
+    },
+    {
+        "ingredientes": "quinua, cebolla, huevo, queso, orégano",
+        "receta": "phuti de quinua",
+        "procedimiento": "Cocer quinua, mezclar con huevo cocido picado, cebolla, queso y orégano. Servir frío."
+    },
+    {
+        "ingredientes": "carne de res, pan molido, huevo, cebolla, zanahoria, arroz",
+        "receta": "falso conejo",
+        "procedimiento": "Empanizar carne con pan molido y huevo. Freírla. Preparar salsa con cebolla y zanahoria. Servir con arroz."
+    },
+    {
+        "ingredientes": "pollo, papa, chuño, ají amarillo, cebolla, habas",
+        "receta": "picante de pollo",
+        "procedimiento": "Cocer el pollo. Preparar una salsa de ají y cebolla. Servir con papa cocida, chuño y habas cocidas."
+    },
+    {
+        "ingredientes": "pollo, cebolla, ají rojo, comino, papa",
+        "receta": "pollo al horno",
+        "procedimiento": "Marinar el pollo con ají, cebolla y comino. Hornear hasta dorar. Servir con papas horneadas."
+    },
+    {
+        "ingredientes": "maíz molido, queso, manteca, azúcar",
+        "receta": "huminta",
+        "procedimiento": "Mezclar maíz molido con queso, manteca y azúcar. Envolver en hojas de maíz. Cocer al vapor."
+    },
+    {
+        "ingredientes": "papa, carne de res, cebolla, ají colorado, comino",
+        "receta": "relleno de papa",
+        "procedimiento": "Preparar puré de papa. Rellenar con carne sofrita y condimentos. Freír hasta dorar."
+    },
+    {
+        "ingredientes": "trigo, carne de res, cebolla, ajo, papa, comino",
+        "receta": "puchero",
+        "procedimiento": "Cocer carne y verduras. Añadir trigo remojado y cocinar hasta ablandar. Servir caliente."
+    },
+    {
+        "ingredientes": "chuño, carne de res, cebolla, tomate, ají amarillo",
+        "receta": "ají de chuño",
+        "procedimiento": "Remojar chuño. Cocinar con carne, cebolla y ají. Servir con arroz."
+    },
+    {
+        "ingredientes": "arroz, leche, canela, azúcar, pasas",
+        "receta": "arroz con leche",
+        "procedimiento": "Cocer arroz en leche con canela. Añadir azúcar y pasas. Servir frío o caliente."
+    },
+    {
+        "ingredientes": "harina, queso, huevo, azúcar, levadura",
+        "receta": "buñuelos",
+        "procedimiento": "Preparar masa con los ingredientes. Freír en aceite caliente. Servir con miel."
+    },
+    {
+        "ingredientes": "choclo, queso, mantequilla",
+        "receta": "lawa de choclo",
+        "procedimiento": "Rallar choclo, cocer con agua y mantequilla. Añadir queso al final. Servir caliente."
+    },
+    {
+        "ingredientes": "arvejas, arroz, cebolla, zanahoria, huevo",
+        "receta": "ají de arvejas",
+        "procedimiento": "Cocer arroz y arvejas. Preparar sofrito de cebolla y zanahoria. Mezclar y servir con huevo cocido."
+    },
+    {
+        "ingredientes": "pollo, yuca, plátano, cebolla, pimentón",
+        "receta": "cazuela de pollo",
+        "procedimiento": "Cocer pollo con yuca y plátano. Añadir cebolla y pimentón. Cocinar hasta que todo esté tierno."
+    }
+]

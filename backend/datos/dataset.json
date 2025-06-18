@@ -1,0 +1,1143 @@
+{
+    "ingredientes": [
+        {
+            "nombre": "tomate",
+            "imagen": "ingredientes/1749964791.png"
+        },
+        {
+            "nombre": "lechuga",
+            "imagen": "ingredientes/1750014555.png"
+        },
+        {
+            "nombre": "rabano",
+            "imagen": "ingredientes/1750014801.png"
+        },
+        {
+            "nombre": "pepino",
+            "imagen": "ingredientes/1750014821.png"
+        },
+        {
+            "nombre": "cebolla",
+            "imagen": "ingredientes/1750014847.png"
+        },
+        {
+            "nombre": "arroz",
+            "imagen": "ingredientes/1750016971.png"
+        },
+        {
+            "nombre": "papa",
+            "imagen": "ingredientes/1750017433.png"
+        },
+        {
+            "nombre": "ajo",
+            "imagen": "ingredientes/1750017760.png"
+        },
+        {
+            "nombre": "arveja",
+            "imagen": "ingredientes/1750017874.png"
+        },
+        {
+            "nombre": "aceite de girasol",
+            "imagen": "ingredientes/1750017942.png"
+        },
+        {
+            "nombre": "sal",
+            "imagen": "ingredientes/1750017971.png"
+        },
+        {
+            "nombre": "orégano",
+            "imagen": "ingredientes/1750018008.png"
+        },
+        {
+            "nombre": "perejil",
+            "imagen": "ingredientes/1750018038.png"
+        },
+        {
+            "nombre": "comino molido",
+            "imagen": "ingredientes/1750018072.png"
+        },
+        {
+            "nombre": "zanahoria",
+            "imagen": "ingredientes/1750018105.png"
+        },
+        {
+            "nombre": "maní",
+            "imagen": "ingredientes/1750018155.png"
+        },
+        {
+            "nombre": "apio",
+            "imagen": "ingredientes/1750018203.png"
+        },
+        {
+            "nombre": "fideo",
+            "imagen": "ingredientes/1750018268.png"
+        },
+        {
+            "nombre": "carne de cordero",
+            "imagen": "ingredientes/1750018390.png"
+        },
+        {
+            "nombre": "ají amarillo molido",
+            "imagen": "ingredientes/1750018475.png"
+        },
+        {
+            "nombre": "trucha",
+            "imagen": "ingredientes/1750018531.png"
+        },
+        {
+            "nombre": "vinagre de manzana",
+            "imagen": "ingredientes/1750018579.png"
+        },
+        {
+            "nombre": "carne de cerdo",
+            "imagen": "ingredientes/1750018610.png"
+        },
+        {
+            "nombre": "limón",
+            "imagen": "ingredientes/1750018639.png"
+        },
+        {
+            "nombre": "agua",
+            "imagen": "ingredientes/1750018705.png"
+        },
+        {
+            "nombre": "hierbabuena",
+            "imagen": "ingredientes/1750018765.png"
+        },
+        {
+            "nombre": "locoto",
+            "imagen": "ingredientes/1750018792.png"
+        },
+        {
+            "nombre": "carne de res",
+            "imagen": "ingredientes/1750018833.png"
+        },
+        {
+            "nombre": "pan molido",
+            "imagen": "ingredientes/1750018856.png"
+        },
+        {
+            "nombre": "harina de trigo ",
+            "imagen": "ingredientes/1750107586.jpg"
+        },
+        {
+            "nombre": "harina de avena",
+            "imagen": "ingredientes/1750107680.jpg"
+        },
+        {
+            "nombre": "harina de maiz",
+            "imagen": "ingredientes/1750107775.jpg"
+        },
+        {
+            "nombre": "semillas de sésamo negro",
+            "imagen": "ingredientes/1750107893.jpg"
+        },
+        {
+            "nombre": "semillas de sésamo blanco",
+            "imagen": "ingredientes/1750107934.jpg"
+        },
+        {
+            "nombre": "semillas de linaza",
+            "imagen": "ingredientes/1750107968.jpg"
+        },
+        {
+            "nombre": "semillas de girasol",
+            "imagen": "ingredientes/1750108010.jpg"
+        },
+        {
+            "nombre": "Levadura seca",
+            "imagen": "ingredientes/1750108145.jpg"
+        },
+        {
+            "nombre": "huevo",
+            "imagen": "ingredientes/1750108212.jpg"
+        },
+        {
+            "nombre": "azúcar",
+            "imagen": "ingredientes/1750108308.jpg"
+        },
+        {
+            "nombre": "aceite de oliva",
+            "imagen": "ingredientes/1750108363.jpg"
+        },
+        {
+            "nombre": "quinoa",
+            "imagen": "ingredientes/1750109709.jpg"
+        },
+        {
+            "nombre": "carne de pollo",
+            "imagen": "ingredientes/1750109822.jpg"
+        },
+        {
+            "nombre": "pimentón",
+            "imagen": "ingredientes/1750109898.jpg"
+        },
+        {
+            "nombre": "queso",
+            "imagen": "ingredientes/1750110013.jpg"
+        },
+        {
+            "nombre": "pimienta",
+            "imagen": "ingredientes/1750110103.jpg"
+        },
+        {
+            "nombre": "leche de vaca",
+            "imagen": "ingredientes/1750112288.jpg"
+        },
+        {
+            "nombre": "hojas de laurel",
+            "imagen": "ingredientes/1750112421.jpg"
+        },
+        {
+            "nombre": "salchichas ",
+            "imagen": "ingredientes/1750113038.jpg"
+        },
+        {
+            "nombre": "cerveza",
+            "imagen": "ingredientes/1750113118.jpg"
+        },
+        {
+            "nombre": "salsa soya",
+            "imagen": "ingredientes/1750113228.jpg"
+        },
+        {
+            "nombre": "carne molida",
+            "imagen": "ingredientes/1750114277.jpg"
+        },
+        {
+            "nombre": "pan rallado",
+            "imagen": "ingredientes/1750114320.jpg"
+        },
+        {
+            "nombre": "pimiento rocoto",
+            "imagen": "ingredientes/1750114385.jpg"
+        },
+        {
+            "nombre": "papaya",
+            "imagen": "ingredientes/1750169713.jpg"
+        },
+        {
+            "nombre": "habas",
+            "imagen": "ingredientes/1750169799.jpg"
+        },
+        {
+            "nombre": "quesillo",
+            "imagen": "ingredientes/1750169895.jpg"
+        },
+        {
+            "nombre": "mantequilla",
+            "imagen": "ingredientes/1750171236.jpg"
+        },
+        {
+            "nombre": "yuca",
+            "imagen": "ingredientes/1750171302.jpg"
+        },
+        {
+            "nombre": "choclo",
+            "imagen": "ingredientes/1750171535.jpg"
+        },
+        {
+            "nombre": "anís",
+            "imagen": "ingredientes/1750171581.jpg"
+        },
+        {
+            "nombre": "costillas de cerdo",
+            "imagen": "ingredientes/1750171907.jpg"
+        },
+        {
+            "nombre": "mote",
+            "imagen": "ingredientes/1750172153.jpg"
+        },
+        {
+            "nombre": "chuño",
+            "imagen": "ingredientes/1750172184.jpg"
+        },
+        {
+            "nombre": "cebollín",
+            "imagen": "ingredientes/1750173195.jpg"
+        },
+        {
+            "nombre": "cebolla en polvo",
+            "imagen": "ingredientes/1750173235.jpg"
+        },
+        {
+            "nombre": "ajo en polvo",
+            "imagen": "ingredientes/1750173284.jpg"
+        },
+        {
+            "nombre": "ají rojo molido",
+            "imagen": "ingredientes/1750173323.jpg"
+        },
+        {
+            "nombre": "corazón de vaca",
+            "imagen": "ingredientes/1750173701.jpg"
+        },
+        {
+            "nombre": "vinagre de uva",
+            "imagen": "ingredientes/1750173744.jpg"
+        },
+        {
+            "nombre": "quirquiña",
+            "imagen": "ingredientes/1750174611.jpg"
+        },
+        {
+            "nombre": "chuño blanco",
+            "imagen": "ingredientes/1750174647.jpg"
+        },
+        {
+            "nombre": "plátano de freir",
+            "imagen": "ingredientes/1750175112.jpg"
+        },
+        {
+            "nombre": "ají colorado",
+            "imagen": "ingredientes/1750175580.jpg"
+        },
+        {
+            "nombre": "mostaza",
+            "imagen": "ingredientes/1750197860.jpg"
+        },
+        {
+            "nombre": "camote",
+            "imagen": "ingredientes/1750197978.jpg"
+        },
+        {
+            "nombre": "oca",
+            "imagen": "ingredientes/1750198002.jpg"
+        },
+        {
+            "nombre": "canela molida",
+            "imagen": "ingredientes/1750198311.jpg"
+        },
+        {
+            "nombre": "manteca vegetal",
+            "imagen": "ingredientes/1750198427.jpg"
+        },
+        {
+            "nombre": "repollo",
+            "imagen": "ingredientes/1750199236.jpg"
+        },
+        {
+            "nombre": "caldo de res",
+            "imagen": "ingredientes/1750199285.jpg"
+        },
+        {
+            "nombre": "garbanzo",
+            "imagen": "ingredientes/1750199308.jpg"
+        },
+        {
+            "nombre": "manzana",
+            "imagen": "ingredientes/1750199336.jpg"
+        },
+        {
+            "nombre": "durazno",
+            "imagen": "ingredientes/1750199356.jpg"
+        },
+        {
+            "nombre": "pera",
+            "imagen": "ingredientes/1750199378.jpg"
+        },
+        {
+            "nombre": "clavo de olor",
+            "imagen": "ingredientes/1750199438.jpg"
+        },
+        {
+            "nombre": "canela en rama",
+            "imagen": "ingredientes/1750199596.jpg"
+        },
+        {
+            "nombre": "extracto de vainilla",
+            "imagen": "ingredientes/1750199642.jpg"
+        },
+        {
+            "nombre": "leche evaporada",
+            "imagen": "ingredientes/1750199677.jpg"
+        },
+        {
+            "nombre": "leche condensada",
+            "imagen": "ingredientes/1750199700.jpg"
+        },
+        {
+            "nombre": "pasas",
+            "imagen": "ingredientes/1750199728.jpg"
+        },
+        {
+            "nombre": "levadura fresca",
+            "imagen": "ingredientes/1750199965.jpg"
+        },
+        {
+            "nombre": "miel de caña",
+            "imagen": "ingredientes/1750200018.jpg"
+        },
+        {
+            "nombre": "Charque cocido",
+            "imagen": "ingredientes/1750209749.png"
+        },
+        {
+            "nombre": "aceituna",
+            "imagen": "ingredientes/175001958.png"
+        }
+    ],
+    "recetas": [
+        {
+            "receta": "pan multicereal",
+            "procedimiento": "Primero activamos la levadura con el azúcar y un poco de agua y un poco de harina de maiz, Juntar las semillas y tostar la mitad y la otra mitad reservar para decorar y dejar enfriar las semillas tostadas.  En un recipiente grande mezclar la sal, la harina de trigo, la harina avena y la harina de maiz luego hacemos un hueco en medio y  añadimos lo que es la levadura activada las semillas tostadas y los aceites y verter el agua de poco  a poco mientras vamos mezclando con la otra mano. Pasamos a una superficie plana y oxigenar la masa una vez amasada la dejamos reposar (primera fermentación). Pasada la fermentación porcionar la masa de 50 gr y damos forma, y ponemos en una bandeja plana y tapar con un paño húmedo y dejar fermentar hasta que duplique su tamaño aproximadamente 30 min (segunda fermentación). Pasado el tiempo pintar con el huevo esparcir las semillas para decorary llevar al horno a una temperatura de 165°C durante 30 a 40 minutos luego sacar del horno y dejar enfriar",
+            "ingredientes": [
+                "harina de trigo",
+                "harina de avena",
+                "harina de maiz",
+                "semillas de sésamo negro",
+                "semillas de sésamo blanco",
+                "semillas de linaza",
+                "semillas de girasol",
+                "Levadura seca",
+                "huevo",
+                "azúcar",
+                "aceite de oliva",
+                "sal",
+                "agua"
+            ],
+            "imagen": "recetas/1750109323.jpg"
+        },
+        {
+            "receta": "hamburguesa de quinoa",
+            "procedimiento": "comenzamos poniendo a hervir la quinoa hasta que ablande y reservamos. luego hervimos el pollo, lo desmenuzamos y picamos la cebolla, el tomate, el pimentón y el perejil. en una fuente mezclamos todos los ingredientes junto con el huevo, el queso, la pimienta y la sal; si la mezcla no está muy firme, agregamos tres cucharadas de harina de trigo. formamos hamburguesas con las manos y las cocinamos en un sartén con un poco de aceite o fritamos según preferencia. servimos y podemos acompañar con crema de apio.",
+            "ingredientes": [
+                "quinoa",
+                "pollo",
+                "huevo",
+                "cebolla",
+                "pimentón",
+                "tomate",
+                "perejil",
+                "queso",
+                "sal",
+                "pimienta",
+                "harina de trigo"
+            ],
+            "imagen": "recetas/1750110323.jpg"
+        },
+        {
+            "receta": "charque ",
+            "procedimiento": "en una olla hervimos el agua y, cuando rompa hervor, añadimos la carne de res junto con la sal y las pepas de pimienta negra. dejamos cocer durante una hora y media. luego retiramos la carne y la dejamos escurrir en una coladera de malla toda la noche o toda la mañana dentro del refrigerador, según el momento en que se desee prepararla. una vez seca, deshilamos la carne y la freímos en bastante aceite. si al freír no está suficientemente salada, se puede añadir un poco más de sal durante la fritura.",
+            "ingredientes": [
+                "carne de res",
+                "agua",
+                "sal",
+                "pimienta",
+                "aceite de girasol"
+            ],
+            "imagen": "recetas/1750112150.jpg"
+        },
+        {
+            "receta": "falso conejo",
+            "procedimiento": "sazonar los filetes con sal y remojarlos en leche durante veinte minutos. luego empanarlos con pan molido y freírlos. en un sartén con un poco de aceite, freír la cebolla picada hasta que tenga brillo, añadir el tomate licuado, sazonar con sal y pimienta, agregar dos hojas de laurel y cocinar hasta que la salsa tenga consistencia. añadir a esta salsa los filetes ya fritos y dejar cocer unos minutos más. en otra olla hervir agua con sal, añadir las papas peladas y cortadas y cocinarlas hasta que estén blandas. en una olla adicional hervir agua, añadir arroz y cocinar a fuego medio hasta que esté listo. se puede servir acompañado de arroz y papa cocida.",
+            "ingredientes": [
+                "carne de res",
+                "leche de vaca",
+                "pan molido",
+                "cebolla",
+                "tomate",
+                "sal",
+                "pimienta",
+                "hojas de laurel",
+                "arroz",
+                "papa",
+                "agua"
+            ],
+            "imagen": "recetas/1750112765.jpg"
+        },
+        {
+            "receta": "pique macho",
+            "procedimiento": "cocinar el huevo hasta que esté duro y reservar. pelar las papas, cortarlas en bastones y freírlas en una sartén con aceite de oliva. cortar las salchichas en trozos medianos y la carne de res en tiras, al igual que las cebollas. colocar las cebollas en un sartén con tres cucharadas de aceite de oliva, agregar las tiras de carne y cocinar a fuego fuerte moviendo constantemente. luego tapar y bajar el fuego para que se cocinen en sus jugos durante tres a cuatro minutos. añadir pimienta, salsa soya y cerveza, dejar cocinar cinco minutos más destapado y agregar los trozos de salchicha. continuar la cocción por cinco minutos más. al estar listas las papas, colocarlas sobre papel para absorber el exceso de aceite. servir colocando las papas fritas como base, encima la carne con salchichas y cebolla, luego el tomate y el locoto cortados finamente, y por último el huevo duro partido a la mitad.",
+            "ingredientes": [
+                "carne de res",
+                "salchichas",
+                "cebolla",
+                "locoto",
+                "tomate",
+                "papa",
+                "huevo",
+                "cerveza",
+                "salsa soya",
+                "sal",
+                "pimienta",
+                "aceite de oliva"
+            ],
+            "imagen": "recetas/1750113452.jpg"
+        },
+        {
+            "receta": "silpancho ",
+            "procedimiento": "hierve las papas lavadas en una olla con abundante agua y un puñado de sal, sin retirar la piel. pica finamente los pimientos, la cebolla y los tomates frescos para la ensalada. condimenta la carne molida con sal, pimienta y comino, mezcla bien. haz una bola con la carne y colócala sobre el pan rallado, aplánala con papel film hasta formar un filete delgado con ambas caras empanizadas. mezcla los vegetales picados y añade vinagre, aceite y sal para hacer la ensalada. fríe el silpancho por ambos lados en una sartén con aceite caliente. escurre las papas cocidas, córtalas en rodajas y fríelas en la misma sartén. luego, fríe un huevo en esa sartén. para servir, coloca las papas y la ensalada como base, encima la carne empanizada y sobre ella el huevo frito. opcionalmente, acompaña con arroz blanco hervido.",
+            "ingredientes": [
+                "carne molida",
+                "pan rallado",
+                "papa",
+                "tomate",
+                "pimiento rocoto",
+                "cebolla",
+                "pimentón",
+                "arroz",
+                "huevo",
+                "aceite de girasol",
+                "vinagre de manzana",
+                "sal",
+                "pimienta",
+                "comino molido"
+            ],
+            "imagen": "recetas/1750114673.jpg"
+        },
+        {
+            "receta": "laping ",
+            "procedimiento": "tomar los pedacitos de papaya pelada, la cebolla, los condimentos, la sal, el zumo de limón y una cuchara de agua y llevarlos a la licuadora. una vez licuado, untar o mezclar en la carne previamente fileteada y dividirla en 4 partes, dejando reposar por unos 40 minutos para ablandar. luego, calentar 4 cucharadas de aceite en una sartén y colocar la carne junto con el adobo restante sin tapar, para sellar por un lado. dar la vuelta, tapar la sartén y dejar cocer por unos 10 a 12 minutos hasta que la mezcla se espese y la carne adquiera un color dorado. mientras tanto, preparar una ensalada mezclando las cebollas en julianas, los tomates y el quesillo o queso rallado con una pizca de sal y aceite. para emplatar, colocar una cama de habas cocidas, encima la carne y a un costado la ensalada.",
+            "ingredientes": [
+                "carne de res",
+                "papaya",
+                "cebolla",
+                "limón",
+                "comino",
+                "pimienta",
+                "sal",
+                "habas",
+                "tomates",
+                "quesillo",
+                "queso",
+                "aceite de girasol",
+                "agua"
+            ],
+            "imagen": "recetas/1750170104.jpg"
+        },
+        {
+            "receta": "saice",
+            "procedimiento": "freír la cebolla picada y el ajo picado, luego agregar el ají amarillo molido y la carne molida. añadir sal, pimienta y comino y dejar que la preparación se fría bien. después, incorporar el tomate picado, las papas en cubitos, la arveja pelada, el perejil picado y un poco de agua. dejar cocer entre 12 y 15 minutos a fuego medio hasta que los ingredientes estén bien cocidos y la mezcla esté espesa. esta preparación se puede acompañar con arroz o fideo según preferencia.",
+            "ingredientes": [
+                "aceite de girasol",
+                "pimienta",
+                "sal",
+                "cebolla",
+                "ají amarillo molido",
+                "carne molida",
+                "comino molido",
+                "tomate",
+                "papa",
+                "arveja",
+                "perejil",
+                "ajo",
+                "agua"
+            ],
+            "imagen": "recetas/1750170413.jpg"
+        },
+        {
+            "receta": "ají de lengua",
+            "procedimiento": "antes de poner a cocer la lengua, golpearla en un batán o mortero para que resulte más suave y sea fácil de pelar. colocar una olla con agua a fuego fuerte, y cuando esté hirviendo, poner la lengua y dejar cocinar durante dos horas hasta que esté suave. luego retirarla, dejar enfriar, pelar y cortar en rodajas delgadas. en una olla calentar el aceite a fuego fuerte y añadir la cebolla, dejar dorar. luego agregar el tomate, ají colorado molido, perejil, comino, orégano, pimienta, arvejas, caldo o agua y sal. mezclar bien y dejar cocinar aproximadamente una hora hasta que la cebolla se deshaga y las arvejas estén cocidas. añadir las tajadas de lengua a la preparación, mezclar y dejar hervir un poco más para que tome sabor. servir acompañado de una papa por persona, chuno phuti y arroz graneado.",
+            "ingredientes": [
+                "lengua de vaca",
+                "agua",
+                "tomate",
+                "cebolla",
+                "arveja",
+                "aceite de girasol",
+                "ají amarillo molido",
+                "perejil",
+                "comino molido",
+                "orégano",
+                "pimienta",
+                "agua"
+            ],
+            "imagen": "recetas/1750170980.jpg"
+        },
+        {
+            "receta": "sonso de Yuca",
+            "procedimiento": "poner a cocer la yuca en agua con una pizca de sal. mientras tanto, rallar el queso y reservar. una vez cocida la yuca, aplastarla con un tenedor hasta hacerla puré y retirar la raíz. mezclar el puré de yuca con el queso rallado, luego añadir el aceite o mantequilla. incorporar la leche y los huevos, mezclando bien hasta obtener una masa homogénea. colocar la mezcla en un recipiente previamente engrasado y llevar al horno por aproximadamente 20 minutos a 120 °c, solo para dorar superficialmente la masa. retirar el sonso del horno, dejar enfriar un poco y servir como si fuera una tarta.",
+            "ingredientes": [
+                "sal",
+                "huevo",
+                "queso",
+                "aceite de girasol",
+                "mantequilla",
+                "leche de vaca",
+                "yuca"
+            ],
+            "imagen": "recetas/1750171406.jpg"
+        },
+        {
+            "receta": "plato paceño",
+            "procedimiento": "hervir agua en una olla grande con azúcar y anís, añadir el choclo y cocinar a fuego alto durante 25 a 30 minutos. en otra olla, cocer las papas con sal hasta que estén blandas. cortar el queso en rodajas finas y dorarlas en el horno o freírlas en aceite caliente hasta que estén crujientes. servir cada porción con una mazorca cocida, una papa y una rodaja de queso dorado. opcionalmente, se puede añadir una cucharada de llajwa o un bistec de res preparado al gusto.",
+            "ingredientes": [
+                "choclo",
+                "papa",
+                "queso",
+                "azúcar",
+                "anís",
+                "sal",
+                "aceite de girasol"
+            ],
+            "imagen": "recetas/1750171744.jpg"
+        },
+        {
+            "receta": "fricasé",
+            "procedimiento": "dorarlas costillas de cerdo en una olla con aceite. agregar el ají amarillo molido, ajo machacado, sal, comino, pimienta y orégano, y sofreír ligeramente. añadir suficiente agua y cocinar hasta que la carne esté bien cocida y tierna. en paralelo, cocinar el chuño y el maíz mote previamente remojados desde el día anterior. servir el fricasé acompañado con mote y chuño.",
+            "ingredientes": [
+                "aceite de girasol",
+                "costillas de cerdo",
+                "comino molido",
+                "pimienta",
+                "orégano",
+                "ají amarillo en vaina",
+                "ajo",
+                "sal",
+                "mote",
+                "chuño"
+            ],
+            "imagen": "recetas/1750172273.jpg"
+        },
+        {
+            "receta": "ají de fideo",
+            "procedimiento": "cocer las papas en agua caliente hasta que estén tiernas. en paralelo, tostar el fideo y cocerlo en agua hirviendo junto con la zanahoria. picar el tomate, locoto, cebolla y ajos, añadir las arvejas y sofreírlos en aceite con ajo en polvo, cebolla en polvo, sal y pimienta. agregar la carne molida, mezclar y cocer por 5 minutos. luego, incorporar el fideo cocido y las papas. añadir el ají rojo molido y media taza de agua, mezclar y cocinar a fuego medio hasta reducir líquidos. servir adornado con cebollín picado.",
+            "ingredientes": [
+                "fideo",
+                "carne molida",
+                "arveja",
+                "zanahoria",
+                "cebolla",
+                "ajo",
+                "papa",
+                "locoto",
+                "tomate",
+                "cebollín",
+                "agua",
+                "aceite de girasol",
+                "sal",
+                "pimienta",
+                "cebolla en polvo",
+                "ajo en polvo",
+                "ají rojo molido"
+            ],
+            "imagen": "recetas/1750173515.jpg"
+        },
+        {
+            "receta": "anticuchos",
+            "procedimiento": "cortar el corazón de vaca en trozos delgados y largos, eliminando la grasa visible. preparar una marinada con ajo molido, vinagre de uva, perejil, jugo de limón (opcional), sal, orégano, comino y pimienta. cubrir la carne con la mezcla y refrigerar de 4 a 5 horas. ensartar de tres a cuatro trozos en cada palito para anticucho. precalentar una parrilla o plancha con un poco de aceite y asar los anticuchos, girándolos ocasionalmente hasta dorar. mientras tanto, cocer las papas y la yuca en agua hasta que estén tiernas. servir los anticuchos acompañados de las papas, la yuca, ají rojo.",
+            "ingredientes": [
+                "corazón de vaca",
+                "ajo",
+                "vinagre de uva",
+                "perejil",
+                "limón",
+                "sal",
+                "orégano",
+                "comino molido",
+                "pimienta",
+                "papa",
+                "yuca",
+                "aceite de girasol",
+                "ají rojo molido"
+            ],
+            "imagen": "recetas/1750174026.jpg"
+        },
+        {
+            "receta": "sajta de pollo",
+            "procedimiento": "licuar el ají amarillo con un poco de agua hasta formar una crema. cortar el pollo en ocho porciones. picar finamente la cebolla y el ajo, luego sofreírlos junto con las arbejas y sal. añadir el ají amarillo licuado. sellar el pollo en una sartén con aceite y agregarlo a la cacerola. sazonar con sal, pimienta y comino, y cocinar hasta que el pollo esté tierno. cocer el chuño blanco en otra olla con sal, previamente cortada en cuatro. triturar el maní, cocerlos con sal y mezclarlos con el chuño blanco. para acompañar, cortar cebolla en rodajas, tomate en cubos y locoto, y decorar con quirquiña.",
+            "ingredientes": [
+                "pollo",
+                "papa",
+                "ají amarillo molido",
+                "ajo",
+                "arbeja",
+                "cebolla",
+                "sal",
+                "pimienta",
+                "comino molido",
+                "chuño blanco",
+                "maní",
+                "aceite de girasol",
+                "tomate",
+                "locoto",
+                "quirquiña"
+            ],
+            "imagen": "recetas/1750174847.jpg"
+        },
+        {
+            "receta": "majadito",
+            "procedimiento": "lavar el charque varias veces para reducir la sal, luego hervirlo en agua durante una hora, desmenuzarlo finamente y dorarlo en una sartén con aceite. reservar el agua del hervor. calentar aceite,  cortar todas las verduras en cuadritos pequeños y moler el ajo. en otra sartén, sofreír el ajo, la cebolla, el pimiento, el tomate . con el aceite , tostar el arroz, añadir las verduras, el charque, comino y pimienta. agregar el agua caliente del charque hasta cubrir el arroz y cocinar hasta que seque. freír los huevos y los plátanos. servir el arroz acompañado con un huevo frito y plátano frito.",
+            "ingredientes": [
+                "charque",
+                "arroz",
+                "agua",
+                "aceite de girasol",
+                "sal",
+                "pimienta",
+                "comino molido",
+                "cebolla",
+                "pimentón",
+                "ajo",
+                "huevo",
+                "tomate",
+                "plátano de freir"
+            ],
+            "imagen": "recetas/1750175259.jpg"
+        },
+        {
+            "receta": "chairo",
+            "procedimiento": "remojar el chuño la noche anterior, pelarlo, machacarlo y lavarlo varias veces. en una olla grande, calentar agua y añadir la carne de vaca y la carne de cordero; antes de hervir, retirar la espuma y añadir sal. cocinar por una hora a fuego medio. agregar las habas, arvejas, zanahorias y papas, cocinar por 15 minutos, añadir el chuño, luego de 5 minutos incorporar el maíz blanco y el trigo mote, y cocinar hasta que las papas estén suaves. en una sartén, dorar la cebolla blanca en aceite, añadir el ají colorado, comino, orégano y pimienta, mezclar bien y agregar esta salsa al chairo. hervir todo junto 10 minutos más. apagar el fuego y añadir la cebolla verde, el perejil, más orégano y la hierbabuena. servir caliente, incluyendo en cada plato un trozo de carne de vaca y chalona.",
+            "ingredientes": [
+                "agua",
+                "carne de res",
+                "carne de cordero",
+                "sal",
+                "habas",
+                "arveja",
+                "zanahoria",
+                "papa",
+                "chuño",
+                "choclo",
+                "trigo mote",
+                "aceite de girasol",
+                "cebolla",
+                "ají colorado",
+                "comino molido",
+                "orégano",
+                "pimienta",
+                "perejil",
+                "hierbabuena"
+            ],
+            "imagen": "recetas/1750175792.jpg"
+        },
+        {
+            "receta": "arroz con queso",
+            "procedimiento": "lavar el arroz en varias aguas hasta que el agua salga transparente. colocar en una olla mediana el arroz, agua fría, cebolla, sal y aceite de girasol; cocinar a fuego alto hasta que hierva, luego bajar el fuego y añadir leche poco a poco mientras se remueve constantemente. cuando el arroz esté bien cocido y jugoso, agregar el queso cortado en cubos o rallado, y mezclar de forma envolvente hasta que se derrita. opcionalmente, añadir cebollín verde para dar color y sabor. servir caliente.",
+            "ingredientes": [
+                "arroz",
+                "leche de vaca",
+                "agua",
+                "aceite de girasol",
+                "queso",
+                "cebolla",
+                "cebollín",
+                "sal"
+            ],
+            "imagen": "recetas/1750196794.jpg"
+        },
+        {
+            "receta": "sopa de quinua",
+            "procedimiento": "colocar el agua en una olla, llevar a ebullición. una vez que hierva, agregar la quinoa, los trozos de carne, las arvejas y las papas peladas y cortadas. cocinar durante 15 minutos hasta que la quinoa esté suave y las papas cocidas. antes de servir, añadir el perejil fresco picado.",
+            "ingredientes": [
+                "quinoa",
+                "agua",
+                "carne de res",
+                "arveja",
+                "papa",
+                "perejil"
+            ],
+            "imagen": "recetas/1750197249.jpg"
+        },
+        {
+            "receta": "phisara de quinua",
+            "procedimiento": "colocar un litro de agua a hervir en una olla. mientras tanto, retostar la quinua por unos minutos y luego agregarla al agua hirviendo sin sal. añadir la sal justo antes de que reviente la quinua. en otra olla, cocer las papas, la cebolla y las habas. una vez cocidas, dejar reposar. en una sartén, freír el charque deshilachado. cuando la quinua esté cocida, mezclar todo y servir acompañado con un quesillo.",
+            "ingredientes": [
+                "quinua",
+                "habas",
+                "cebolla",
+                "charque",
+                "papa",
+                "sal",
+                "pimienta",
+                "quesillo"
+            ],
+            "imagen": "recetas/1750197466.jpg"
+        },
+        {
+            "receta": "picante de pollo",
+            "procedimiento": "sofreír el pollo con sal, comino, pimienta, ajo y jugo de limón; dorar y reservar. en una olla con aceite, caramelizar la cebolla, luego añadir el ají molido y cocinar hasta que tome un tono oscuro. incorporar el tomate y cocinar cinco minutos más. agregar agua hervida o caldo y hervir por diez minutos. incorporar las presas de pollo reservadas, la arveja, los tallos de perejil y un sazonador, corregir sal y cocinar quince minutos más. retirar los tallos de perejil y servir con papa entera, chuño puthi, arroz graneado y ensalada de tomate con cebolla.",
+            "ingredientes": [
+                "pollo",
+                "cebolla",
+                "tomate",
+                "arveja",
+                "perejil",
+                "ají rojo molido",
+                "ajo",
+                "comino molido",
+                "pimienta",
+                "sal",
+                "limón"
+            ],
+            "imagen": "recetas/1750197766.jpg"
+        },
+        {
+            "receta": "pollo al horno",
+            "procedimiento": "la noche anterior, disolver sal en agua y sumergir el pollo trozado o entero, dejar en refrigeración; al día siguiente escurrir. mezclar mostaza, salsa soya, azúcar, sal, jugo de limón, y luego añadir aceite, ajo. mezclar con el pollo y dejar reposar treinta minutos. enmantecar una charola, colocar el pollo y hornear; a los treinta minutos bañar con el jugo de la charola o el restante, repetir esto a los quince minutos y voltear las piezas si es necesario. continuar la cocción otros quince minutos, apagar el horno, dejar reposar diez minutos y servir con ensalada y guarniciones como papa, camote, oca o choclo.",
+            "ingredientes": [
+                "pollo",
+                "sal",
+                "mostaza",
+                "salsa soya",
+                "azúcar",
+                "ajo",
+                "aceite de girasol",
+                "limón",
+                "papa",
+                "camote",
+                "oca",
+                "choclo"
+            ],
+            "imagen": "recetas/1750198211.jpg"
+        },
+        {
+            "receta": "huminta",
+            "procedimiento": "cortar la base de los choclos y deshojar con cuidado, reservar las hojas; desgranar los choclos y colocar una olla con agua para hervir a fuego lento. triturar los granos en batán, procesadora o licuadora hasta lograr un puré fino, añadiendo al final la canela molida y el anís. mezclar el puré con azúcar y sal en un recipiente. calentar la manteca hasta que humee y verterla en la mezcla para darle sabor. formar paquetes con dos hojas de choclo, colocar dos cucharadas de la mezcla, una rodaja de queso en el centro y cubrir con más mezcla; cerrar las hojas doblando los extremos y atar con tiras de hoja de choclo. colocar los paquetes en la olla, tapar y cocer al vapor hasta que estén firmes.",
+            "ingredientes": [
+                "choclo",
+                "canela molida",
+                "anís",
+                "sal",
+                "manteca vegetal",
+                "azúcar",
+                "queso"
+            ],
+            "imagen": "recetas/1750198670.jpg"
+        },
+        {
+            "receta": "relleno de papa",
+            "procedimiento": "cocer las papas en agua con sal hasta que estén suaves, en una olla con agua agregar los huevos cocinar 5 min, pelar las papas y hacer puré; en una sartén grande dorar la carne molida con la cebolla, ajo y tomate picados, agregar arvejas cocidas, zanahoria rallada, cocinar unos minutos; añadir  huevos duros picados, comino y pimentón, mezclar bien y cocinar un poco más. tomar porciones de puré de papa, hacer un agujero al centro, rellenar con la mezcla de carne y cerrar con más puré, formar las papas rellenas. calentar aceite y freírlas hasta que estén doradas por ambos lados. servir caliente acompañado de ensalada fresca.",
+            "ingredientes": [
+                "papa",
+                "carne molida",
+                "cebolla",
+                "tomate",
+                "ajo",
+                "arveja",
+                "zanahoria",
+                "huevo",
+                "comino molido",
+                "pimentón",
+                "sal",
+                "aceite de girasol"
+            ],
+            "imagen": "recetas/1750199069.jpg"
+        },
+        {
+            "receta": "puchero",
+            "procedimiento": "hervir la carne de res y cordero en agua con zanahoria, cebolla y ajo hasta que esté suave; añadir el repollo, el chuño y sal al gusto, cocinar todo junto hasta que esté bien cocido, luego retirar y cortar las carnes. preparar una salsa dorando la cebolla y ajo en aceite, añadir ají molido y caldo, cocer a fuego bajo por 45 minutos hasta que espese. cocinar el arroz en caldo junto con garbanzos y sal, removiendo constantemente hasta que esté bien cocido y cremoso. freír las carnes cocidas hasta que estén doradas. servir caliente en platos de barro con papas cocidas, frutas como manzanas al horno, duraznos y peras cocidas en agua con azúcar, canela y clavo. acompañar con la salsa de ají.",
+            "ingredientes": [
+                "carne de res",
+                "carne de cordero",
+                "zanahoria",
+                "cebolla",
+                "ajo",
+                "chuño blanco",
+                "repollo",
+                "ají rojo molido",
+                "aceite de girasol",
+                "caldo de res",
+                "arroz",
+                "garbanzo",
+                "papa",
+                "manzana",
+                "durazno",
+                "pera",
+                "azúcar",
+                "canela molida",
+                "clavo de olor",
+                "sal"
+            ],
+            "imagen": "recetas/1750199513.jpg"
+        },
+        {
+            "receta": "arroz con leche",
+            "procedimiento": "hervir el agua con canela en rama y clavo de olor, luego añadir el arroz previamente lavado y cocinar a fuego medio, moviendo con tenedor para evitar que se rompa; una vez cocido y sin agua, retirar las especias, agregar el extracto de vainilla, leche evaporada y leche condensada, seguir cocinando entre 5 a 8 minutos hasta que la mezcla espese ligeramente, añadir las pasas y servir decorado con canela en polvo.",
+            "ingredientes": [
+                "agua",
+                "canela en rama",
+                "clavo de olor",
+                "arroz",
+                "extracto de vainilla",
+                "leche evaporada",
+                "leche condensada",
+                "pasas",
+                "canela molida"
+            ],
+            "imagen": "recetas/1750199797.jpg"
+        },
+        {
+            "receta": "buñuelos",
+            "procedimiento": " En un bol, disolver el azúcar en agua tibia y agregar la levadura fresca. Dejar reposar 7 minutos. Añadir la sal, anís, huevos y harina. Mezclar con la mano hasta obtener una masa líquida. Dejar levar hasta que doble su volumen. Calentar la manteca vegetal en una sartén. Untarse las manos con aceite de girasol, tomar porciones de masa y estirarlas en forma de disco delgado. Hacer un agujero al centro y freír en la manteca caliente, dándole vueltas con un palito por el agujero hasta dorar ambos lados. Escurrir en papel absorbente y servir con miel de caña al gusto.",
+            "ingredientes": [
+                "levadura fresca",
+                "agua",
+                "azúcar",
+                "sal",
+                "anís",
+                "huevo",
+                "harina de trigo",
+                "manteca vegetal",
+                "miel de caña",
+                "aceite de girasol"
+            ],
+            "imagen": "recetas/1750200097.jpg"
+        },
+        {
+            "receta": "papas a la huancaina",
+            "procedimiento": "Hervir las papas con cáscara hasta que estén cocidas. Pelarlas y reservar. En una licuadora, colocar el queso fresco, ají amarillo sin semillas, leche evaporada, galletas de soda, ajo, jugo de limón, sal y aceite. Licuar hasta obtener una salsa cremosa y homogénea. Servir las papas en rodajas cubiertas con la salsa y acompañar con huevo duro, aceitunas y lechuga.",
+            "ingredientes": [
+                "papa",
+                "queso",
+                "ají amarillo molido",
+                "leche evaporada",
+                "ajo",
+                "limón",
+                "sal",
+                "aceite de girasol",
+                "huevo",
+                "lechuga",
+                "maní",
+                "aceituna"
+            ],
+            "imagen": "recetas/papas_a_la_huancaina1.jpg"
+        },
+        {
+            "receta": "asado con chorrellana",
+            "procedimiento": "Sazonar la carne con sal, pimienta y comino. Dorarla en una sartén con aceite hasta que esté cocida al gusto. Aparte, saltear la cebolla en pluma y el tomate en gajos en aceite caliente, añadir sal, pimienta, ajo y un chorrito de vinagre. Cocinar hasta que la cebolla esté blanda. Servir la carne con la salsa encima, acompañada de arroz blanco y papas fritas.",
+            "ingredientes": [
+                "carne de res",
+                "sal",
+                "pimienta",
+                "comino molido",
+                "aceite de girasol",
+                "cebolla",
+                "tomate",
+                "ajo",
+                "arroz",
+                "papa"
+            ],
+            "imagen": "recetas/asado_con_chorellana.jpg"
+        },
+        {
+            "receta": "pollo con papas fritas",
+            "procedimiento": "Sazonar el pollo con sal, pimienta y ajo. Freír en una sartén con aceite caliente hasta que esté dorado y cocido. Aparte, pelar y cortar las papas en bastones. Freírlas en aceite caliente hasta que estén crujientes. Escurrir en papel absorbente. Servir el pollo acompañado con las papas fritas y, si se desea, una ensalada fresca.",
+            "ingredientes": [
+                "carne de pollo",
+                "sal",
+                "pimienta",
+                "ajo",
+                "aceite de girasol",
+                "papa"
+            ],
+            "imagen": "recetas/pollo_con_papas_fritas2.jpg"
+        },
+        {
+            "receta": "Pejtu de habas",
+            "procedimiento": "Hacer un ahogado con la cebolla, el ajo y los condimentos, agregar el ají amarillo bien cocido.\r\npara luego añadir las habas cocidas y las tajadas de queso, si elige poner charque, éste es el momento. dejar hervir un momento para que tome el sabor del charque y el queso se derrita un poco.\r\nServir, si se quiere con arroz y papa y por último decorar encima con perejil picado.",
+            "ingredientes": [
+                "habas",
+                "cebolla",
+                "ajo",
+                "sal",
+                "pimienta",
+                "comino molido",
+                "Charque cocido",
+                "queso"
+            ],
+            "imagen": "recetas/1750209840.png"
+        },
+        {
+            "receta": "Milanesa de carne",
+            "procedimiento": "en la licuadora vamos a moler la cebolla, el tomate y el pimentón. en una fuente ponemos la carne molida y agregamos la preparación que hicimos en la licuadora, agregamos 2 huevos y sal a gusto, mezclamos bien, si nota que esta un poco jugosa la carne le añadimos un poco de pan molido, mezclamos bien para que se integren todos los ingredientes, cuando este listo formamos las bolitas de carne. con la ayuda de una bolsa plástica apelamos las milanesas, las freímos en aceite caliente. por último, servir acompañado de arroz, huevo frito, papa y sarza de cebolla, tomate y pimentón o locoto.",
+            "ingredientes": [
+                "carne molida",
+                "pan molido",
+                "cebolla",
+                "tomate",
+                "pimentón",
+                "huevo",
+                "arroz",
+                "lechuga"
+            ],
+            "imagen": "recetas/1750210033.png"
+        },
+        {
+            "receta": "Milanesa de carne",
+            "procedimiento": "En la licuadora vamos a moler la cebolla, el tomate y el pimentón. en una fuente ponemos la carne molida y agregamos la preparación que hicimos en la licuadora, agregamos 2 huevos y sal a gusto, mezclamos bien, si nota que esta un poco jugosa la carne le añadimos un poco de pan molido, mezclamos bien para que se integren todos los ingredientes, cuando este listo formamos las bolitas de carne. con la ayuda de una bolsa plástica apelamos las milanesas, las freímos en aceite caliente. y por último, servir acompañado de arroz, huevo frito, papa y sarza de cebolla, tomate y pimentón o locoto.",
+            "ingredientes": [
+                "tomate",
+                "pimentón",
+                "carne molida",
+                "cebolla",
+                "arroz",
+                "papa",
+                "pan molido",
+                "huevo"
+            ],
+            "imagen": "recetas/1750210153.png"
+        },
+        {
+            "receta": "sandwich de Chola",
+            "procedimiento": "Sazonar cerdo al gusto. asar el cerdo el tajadas. cortar el pan. armar el sandwich con tajadas de tomate y tajada de cerdo ",
+            "ingredientes": [
+                "pan",
+                "carne de cerdo",
+                "tomate",
+                "sal"
+            ],
+            "imagen": "recetas/chola.png"
+        },
+        {
+            "receta": "lawa de choclo",
+            "procedimiento": "Hervir la carne en un caldo. Picar cebolla y tomate pelado. Incorporar cebolla, tomate, perejil y habas. Picar y moler el choclo seco con aji y ajo. Incorporar la molienda al caldo. Cocer por 15 minutos y agregar papas.",
+            "ingredientes": [
+                "choclo",
+                "carne de res",
+                "cebolla",
+                "tomate",
+                "quesillo",
+                "ají colorado",
+                "ajo",
+                "sal",
+                "perejil",
+                "habas"
+            ],
+            "imagen": "recetas/lawa.png"
+        },
+        {
+            "receta": "chicharron de surubi",
+            "procedimiento": "Salar con sal y agua el surubi en filetes y dejar reposar. Sazonar el surubi con jugo de limón, pimienta, ajo y sal. Mezclar harinas en un recipiente con sal. Meter y revovler los filetes en la mezcla de harina. Calentar el aceite. Freir el surubi hasta que este cocido",
+            "ingredientes": [
+                "surubi",
+                "ajo",
+                "limón",
+                "harina de maiz",
+                "harina de trigo",
+                "aceite de girasol",
+                "sal"            
+            ],
+            "imagen": "recetas/surubi.png"
+        },
+        {
+            "receta": "locro de gallina",
+            "procedimiento": "En la licuadora vamos a moler la cebolla, el tomate y el pimentón. en una fuente ponemos la carne molida y agregamos la preparación que hicimos en la licuadora, agregamos 2 huevos y sal a gusto, mezclamos bien, si nota que esta un poco jugosa la carne le añadimos un poco de pan molido, mezclamos bien para que se integren todos los ingredientes, cuando este listo formamos las bolitas de carne. con la ayuda de una bolsa plástica apelamos las milanesas, las freímos en aceite caliente. y por último, servir acompañado de arroz, huevo frito, papa y sarza de cebolla, tomate y pimentón o locoto.",
+            "ingredientes": [
+                "carne de pollo",
+                "arroz",
+                "yuca",
+                "papa",
+                "huevo",
+                "plátano de freir",
+                "cebolla",
+                "tomate",
+                "ajo",
+                "sal"
+            ],
+            "imagen": "recetas/locro.png"
+        },
+        {
+            "receta": "chanca de pollo",
+            "procedimiento": "En la licuadora vamos a moler la cebolla, el tomate y el pimentón. en una fuente ponemos la carne molida y agregamos la preparación que hicimos en la licuadora, agregamos 2 huevos y sal a gusto, mezclamos bien, si nota que esta un poco jugosa la carne le añadimos un poco de pan molido, mezclamos bien para que se integren todos los ingredientes, cuando este listo formamos las bolitas de carne. con la ayuda de una bolsa plástica apelamos las milanesas, las freímos en aceite caliente. y por último, servir acompañado de arroz, huevo frito, papa y sarza de cebolla, tomate y pimentón o locoto.",
+            "ingredientes": [
+                "tomate",
+                "pimentón",
+                "carne molida",
+                "cebolla",
+                "arroz",
+                "papa",
+                "pan molido",
+                "huevo"
+            ],
+            "imagen": "recetas/1750210153.png"
+        },
+        {
+            "receta": "ají de panza",
+            "procedimiento": "cocer las papas en agua caliente hasta que estén tiernas. en paralelo, tostar el fideo y cocerlo en agua hirviendo junto con la zanahoria. picar el tomate, locoto, cebolla y ajos, añadir las arvejas y sofreírlos en aceite con ajo en polvo, cebolla en polvo, sal y pimienta. agregar la carne molida, mezclar y cocer por 5 minutos. luego, incorporar el fideo cocido y las papas. añadir el ají rojo molido y media taza de agua, mezclar y cocinar a fuego medio hasta reducir líquidos. servir adornado con cebollín picado.",
+            "ingredientes": [
+                "fideo",
+                "carne molida",
+                "arveja",
+                "zanahoria",
+                "cebolla",
+                "ajo",
+                "papa",
+                "locoto",
+                "tomate",
+                "cebollín",
+                "agua",
+                "aceite de girasol",
+                "sal",
+                "pimienta",
+                "cebolla en polvo",
+                "ajo en polvo",
+                "ají rojo molido"
+            ],
+            "imagen": "recetas/1750173515.jpg"
+        },
+        {
+            "receta": "ranga ranga",
+            "procedimiento": "cocer las papas en agua caliente hasta que estén tiernas. en paralelo, tostar el fideo y cocerlo en agua hirviendo junto con la zanahoria. picar el tomate, locoto, cebolla y ajos, añadir las arvejas y sofreírlos en aceite con ajo en polvo, cebolla en polvo, sal y pimienta. agregar la carne molida, mezclar y cocer por 5 minutos. luego, incorporar el fideo cocido y las papas. añadir el ají rojo molido y media taza de agua, mezclar y cocinar a fuego medio hasta reducir líquidos. servir adornado con cebollín picado.",
+            "ingredientes": [
+                "fideo",
+                "carne molida",
+                "arveja",
+                "zanahoria",
+                "cebolla",
+                "ajo",
+                "papa",
+                "locoto",
+                "tomate",
+                "cebollín",
+                "agua",
+                "aceite de girasol",
+                "sal",
+                "pimienta",
+                "cebolla en polvo",
+                "ajo en polvo",
+                "ají rojo molido"
+            ],
+            "imagen": "recetas/1750173515.jpg"
+        },
+        {
+            "receta": "falso conejo",
+            "procedimiento": "cocer las papas en agua caliente hasta que estén tiernas. en paralelo, tostar el fideo y cocerlo en agua hirviendo junto con la zanahoria. picar el tomate, locoto, cebolla y ajos, añadir las arvejas y sofreírlos en aceite con ajo en polvo, cebolla en polvo, sal y pimienta. agregar la carne molida, mezclar y cocer por 5 minutos. luego, incorporar el fideo cocido y las papas. añadir el ají rojo molido y media taza de agua, mezclar y cocinar a fuego medio hasta reducir líquidos. servir adornado con cebollín picado.",
+            "ingredientes": [
+                "fideo",
+                "carne molida",
+                "arveja",
+                "zanahoria",
+                "cebolla",
+                "ajo",
+                "papa",
+                "locoto",
+                "tomate",
+                "cebollín",
+                "agua",
+                "aceite de girasol",
+                "sal",
+                "pimienta",
+                "cebolla en polvo",
+                "ajo en polvo",
+                "ají rojo molido"
+            ],
+            "imagen": "recetas/1750173515.jpg"
+        },
+        {
+            "receta": "pectu de habas",
+            "procedimiento": "cocer las papas en agua caliente hasta que estén tiernas. en paralelo, tostar el fideo y cocerlo en agua hirviendo junto con la zanahoria. picar el tomate, locoto, cebolla y ajos, añadir las arvejas y sofreírlos en aceite con ajo en polvo, cebolla en polvo, sal y pimienta. agregar la carne molida, mezclar y cocer por 5 minutos. luego, incorporar el fideo cocido y las papas. añadir el ají rojo molido y media taza de agua, mezclar y cocinar a fuego medio hasta reducir líquidos. servir adornado con cebollín picado.",
+            "ingredientes": [
+                "fideo",
+                "carne molida",
+                "arveja",
+                "zanahoria",
+                "cebolla",
+                "ajo",
+                "papa",
+                "locoto",
+                "tomate",
+                "cebollín",
+                "agua",
+                "aceite de girasol",
+                "sal",
+                "pimienta",
+                "cebolla en polvo",
+                "ajo en polvo",
+                "ají rojo molido"
+            ],
+            "imagen": "recetas/1750173515.jpg"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "nombre": "silpancho",
+    "imagen_path": "images/silpancho1.jpg"
+  },
+  {
+    "nombre": "salteña",
+    "imagen_path": "images/saltena1.jpg"
+  },
+  {
+    "nombre": "aji de fideo",
+    "imagen_path": "images/aji_de_fideo1.jpg"
+  },
+  {
+    "nombre": "fricase",
+    "imagen_path": "images/fricase1.jpg"
+  },
+  {
+    "nombre": "silpancho",
+    "imagen_path": "images/silpancho2.jpg"
+  },
+  {
+    "nombre": "pique macho",
+    "imagen_path": "images/pique_macho2.jpg"
+  },
+  {
+    "nombre": "salteña",
+    "imagen_path": "images/saltena2.jpg"
+  },
+  {
+    "nombre": "aji de fideo",
+    "imagen_path": "images/aji_de_fideo2.jpg"
+  },
+  {
+    "nombre": "fricase",
+    "imagen_path": "images/fricase2.jpg"
+  },
+  {
+    "nombre": "silpancho",
+    "imagen_path": "images/silpancho3.jpg"
+  },
+  {
+    "nombre": "pique macho",
+    "imagen_path": "images/pique_macho3.jpg"
+  },
+  {
+    "nombre": "pique macho",
+    "imagen_path": "images/pique_macho4.jpg"
+  },
+   {
+    "nombre": "pique macho",
+    "imagen_path": "images/pique_macho.jpg"
+  },
+  {
+    "nombre": "salteña",
+    "imagen_path": "images/saltena3.jpg"
+  },
+  {
+    "nombre": "aji de fideo",
+    "imagen_path": "images/aji_de_fideo3.jpg"
+  },
+  {
+    "nombre": "fricase",
+    "imagen_path": "images/fricase3.jpg"
+  },
+  {
+    "nombre": "papas a la huancaina",
+    "imagen_path": "images/papas_a_la_huancaina1.jpg"
+  },
+  {
+    "nombre": "papas a la huancaina",
+    "imagen_path": "images/papas_a_la_huancaina2.jpg"
+  },
+  {
+    "nombre": "papas a la huancaina",
+    "imagen_path": "images/papas_a_la_huancaina3.jpg"
+  },
+  {
+    "nombre": "asado con chorrellana",
+    "imagen_path": "images/asado_con_chorellana.jpg"
+  },
+  {
+    "nombre": "asado con chorrellana",
+    "imagen_path": "images/asado_con_chorellana2.jpg"
+  },
+  {
+    "nombre": "asado con chorrellana",
+    "imagen_path": "images/asado_con_chorellana3.jpg"
+  },
+  {
+    "nombre": "majadito",
+    "imagen_path": "images/majadito1.jpg"
+  },
+  {
+    "nombre": "majadito",
+    "imagen_path": "images/majadito2.jpg"
+  },
+  {
+    "nombre": "majadito",
+    "imagen_path": "images/majadito3.jpg"
+  },
+  {
+    "nombre": "pollo con papas fritas",
+    "imagen_path": "images/pollo_con_papas_fritas.jpg"
+  },
+  {
+    "nombre": "pollo con papas fritas",
+    "imagen_path": "images/pollo_con_papas_fritas2.jpg"
+  },
+  {
+    "nombre": "pollo con papas fritas",
+    "imagen_path": "images/pollo_con_papas_fritas3.jpg"
+  },
+  {
+    "nombre": "relleno de papa",
+    "imagen_path": "images/relleno_de_papa.jpg"
+  },
+  {
+    "nombre": "relleno de papa",
+    "imagen_path": "images/relleno_de_papa2.jpg"
+  },
+  {
+    "nombre": "relleno de papa",
+    "imagen_path": "images/relleno_de_papa3.jpg"
+  }
+
+  
+]

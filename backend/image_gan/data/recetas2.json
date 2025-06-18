@@ -1,0 +1,130 @@
+[
+  {
+    "nombre": "silpancho simple",
+    "imagen_path": "images/silpancho1.jpg"
+  },
+  {
+    "nombre": "salteña grande",
+    "imagen_path": "images/saltena1.jpg"
+  },
+  {
+    "nombre": "aji de fideo con aji",
+    "imagen_path": "images/aji_de_fideo1.jpg"
+  },
+  {
+    "nombre": "fricase con mote",
+    "imagen_path": "images/fricase1.jpg"
+  },
+  {
+    "nombre": "silpancho pequeño",
+    "imagen_path": "images/silpancho2.jpg"
+  },
+  {
+    "nombre": "pique macho con fondo blanco",
+    "imagen_path": "images/pique_macho2.jpg"
+  },
+  {
+    "nombre": "salteña pequeña",
+    "imagen_path": "images/saltena2.jpg"
+  },
+  {
+    "nombre": "aji de fideo",
+    "imagen_path": "images/aji_de_fideo2.jpg"
+  },
+  {
+    "nombre": "fricase con aji rojo",
+    "imagen_path": "images/fricase2.jpg"
+  },
+  {
+    "nombre": "silpancho grande",
+    "imagen_path": "images/silpancho3.jpg"
+  },
+  {
+    "nombre": "pique macho con jugo",
+    "imagen_path": "images/pique_macho3.jpg"
+  },
+  {
+    "nombre": "pique macho con aceituna",
+    "imagen_path": "images/pique_macho4.jpg"
+  },
+   {
+    "nombre": "pique macho simple",
+    "imagen_path": "images/pique_macho.jpg"
+  },
+  {
+    "nombre": "dos salteñas",
+    "imagen_path": "images/saltena3.jpg"
+  },
+  {
+    "nombre": "aji de fideo simple",
+    "imagen_path": "images/aji_de_fideo3.jpg"
+  },
+  {
+    "nombre": "fricase con chuño",
+    "imagen_path": "images/fricase3.jpg"
+  },
+  {
+    "nombre": "papas a la huancaina 1",
+    "imagen_path": "images/papas_a_la_huancaina1.jpg"
+  },
+  {
+    "nombre": "papas a la huancaina con lechuga",
+    "imagen_path": "images/papas_a_la_huancaina2.jpg"
+  },
+  {
+    "nombre": "papas a la huancaina pequeño",
+    "imagen_path": "images/papas_a_la_huancaina3.jpg"
+  },
+  {
+    "nombre": "asado con chorrellana pequeño",
+    "imagen_path": "images/asado_con_chorellana.jpg"
+  },
+  {
+    "nombre": "asado con chorrellana con papas fritas",
+    "imagen_path": "images/asado_con_chorellana2.jpg"
+  },
+  {
+    "nombre": "asado con chorrellana en plato azul",
+    "imagen_path": "images/asado_con_chorellana3.jpg"
+  },
+  {
+    "nombre": "majado",
+    "imagen_path": "images/majadito1.jpg"
+  },
+  {
+    "nombre": "majadito con platano",
+    "imagen_path": "images/majadito2.jpg"
+  },
+  {
+    "nombre": "majadito pequeño",
+    "imagen_path": "images/majadito3.jpg"
+  },
+  {
+    "nombre": "pollo al spiedo con papas fritas",
+    "imagen_path": "images/pollo_con_papas_fritas.jpg"
+  },
+  {
+    "nombre": "pollo con muchas papas fritas",
+    "imagen_path": "images/pollo_con_papas_fritas2.jpg"
+  },
+  {
+    "nombre": "pollo broaster con papas fritas",
+    "imagen_path": "images/pollo_con_papas_fritas3.jpg"
+  },
+  {
+    "nombre": "relleno de papa con ensalada",
+    "imagen_path": "images/relleno_de_papa.jpg"
+  },
+  {
+    "nombre": "dos rellenos de papa con ensalada",
+    "imagen_path": "images/relleno_de_papa2.jpg"
+  },
+  {
+    "nombre": "relleno de papa",
+    "imagen_path": "images/relleno_de_papa3.jpg"
+  },
+  {
+    "nombre": "lawa",
+    "imagen_path": "images/lawa.jpg"
+  }
+]
