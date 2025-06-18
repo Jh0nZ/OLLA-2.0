@@ -10,11 +10,16 @@ export interface Ingredient {
   nombre: string
   imagen: string
 }
+export interface Receta {
+  nombre: string
+  procedimiento: string
+  texto_completo: string
+}
 
 export interface Message {
   id: number
   type: "user" | "assistant"
-  content: string
+  content: string | Receta
   ingredients?: Ingredient[]
 }
 

@@ -32,7 +32,19 @@ export default function ChatArea({ messages, isLoading }: ChatAreaProps) {
                   : "bg-emerald-50 border border-emerald-200 text-emerald-900 shadow-sm"
               }`}
             >
-              <p className="text-sm leading-relaxed whitespace-pre-line">{message.content}</p>
+                            {typeof message.content === "string" ? (
+                <p className="text-sm leading-relaxed whitespace-pre-line">
+                  {message.content}
+                </p>
+              ) : (
+                <div className="text-sm leading-relaxed whitespace-pre-line space-y-2">
+                  <h3 className="font-semibold text-emerald-800">
+                    {message.content.nombre}
+                  </h3>
+                  <p>{message.content.procedimiento}</p>
+                  <p>{message.content.texto_completo}</p>
+                </div>
+              )}
               {message.ingredients && message.ingredients.length > 0 && (
                 <div className="mt-3 flex flex-wrap gap-2">
                   {message.ingredients.map((ingredient, index) => (
