@@ -12,14 +12,12 @@ class RecipeGenerator:
         
         self.model.eval()
 
-    def generate(self, ingredientes, max_length=256, temperature=0.9):
+    def generate(self, ingredientes, max_length=128, temperature=0.9):
         prompt = (
             "<RECIPE_START>\n"
             "<INPUTS> " + ingredientes + " <INPUTS_END>\n"
             "<INSTRUCTIONS>"
         )
-
-        prompt = f"Ingredientes: {ingredientes}\nNombre:\nProcedimiento:"
         
         inputs = self.tokenizer.encode(
             prompt, 
