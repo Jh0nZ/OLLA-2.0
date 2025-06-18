@@ -30,6 +30,7 @@ export default function RecipeChat() {
   const [selectedIngredients, setSelectedIngredients] = useState<Ingredient[]>([])
   const [selectedModel, setSelectedModel] = useState<string>("")
   const [temperature, setTemperature] = useState<number>(0.96)
+  const [maxLength, setMaxLength] = useState<number>(256)
   const [isLoading, setIsLoading] = useState(false)
 
   useEffect(() => {
@@ -64,7 +65,7 @@ export default function RecipeChat() {
         ingredientes: selectedIngredients.map((i) => i.nombre).join(", "),
         modelo: selectedModel,
         temperatura: temperature.toString(),
-        max_length: "512",
+        max_length: maxLength.toString(),
       })
 
       const response = await fetch("http://localhost:8000/generar-receta", {
@@ -80,7 +81,7 @@ export default function RecipeChat() {
         {
           id: Date.now() + 1,
           type: "assistant",
-          content: data.receta ? `**${data.receta.nombre}**\n\n${data.receta.procedimiento}` : "No se pudo generar la receta. Intenta de nuevo.",
+          content: data.receta || "No se pudo generar la receta. Intenta de nuevo.",
         },
       ])
     } catch {
@@ -101,7 +102,6 @@ export default function RecipeChat() {
   return (
     <div className="min-h-screen relative overflow-hidden">
       <AnimatedBackground />
-
       <div className="container mx-auto max-w-4xl h-screen flex flex-col relative z-10">
         <div className="flex-1 flex flex-col p-6 gap-6 overflow-hidden">
           <ChatArea messages={messages} isLoading={isLoading} />
@@ -109,12 +109,14 @@ export default function RecipeChat() {
             selectedIngredients={selectedIngredients}
             selectedModel={selectedModel}
             temperature={temperature}
+            maxLength={maxLength}
             isLoading={isLoading}
             aiModels={aiModels}
             onIngredientsChange={setSelectedIngredients}
             onGenerateRecipe={generateRecipe}
             onModelChange={setSelectedModel}
             onTemperatureChange={setTemperature}
+            onMaxLengthChange={setMaxLength}
           />
         </div>
       </div>
