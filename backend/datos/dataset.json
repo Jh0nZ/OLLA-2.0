@@ -379,6 +379,10 @@
         {
             "nombre": "surubi",
             "imagen": "ingredientes/surubi.png"
+        },
+        {
+            "nombre": "panza de res",
+            "imagen": "ingredientes/panzaRes.png"
         }
     ],
     "recetas": [
