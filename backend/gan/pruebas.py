@@ -2,7 +2,11 @@
 from backend.gan.train import train
 train(
     epochs=50,
-    model_label="olla-gpt2-v2.0", 
+    model_label="olla-gpt2-v2.3", 
+    batch_size=12,
+    lr_gen=6e-5,
+    lr_disc=6e-6,
+
     model_description="Modelo de recetas en español",
 )
 
