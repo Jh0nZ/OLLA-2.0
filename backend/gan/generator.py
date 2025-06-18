@@ -9,14 +9,14 @@ class RecipeGenerator:
         
         if self.tokenizer.pad_token is None:
             self.tokenizer.pad_token = self.tokenizer.eos_token
+            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
         
         self.model.eval()
 
-    def generate(self, ingredientes, max_length=128, temperature=0.9):
+    def generate(self, ingredientes, max_length=128, temperature=0.7):
         prompt = (
             f"<INPUTS> {ingredientes} <INPUTS_END>\n"
-            f"<RECIPE_START>\n"
-            f"<INSTRUCTIONS>"
+            f"<NAME>"
         )
         
         inputs = self.tokenizer.encode(
@@ -31,7 +31,7 @@ class RecipeGenerator:
                 inputs, 
                 max_length=max_length,
                 min_length=64,
-                num_return_sequences=1,
+                num_return_sequences=3,
                 do_sample=True,
                 temperature=temperature,
                 top_k=50,
@@ -43,6 +43,8 @@ class RecipeGenerator:
             )
         
         text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+        # para entrenar
+        # return text.strip()
         return self._extract_recipe_parts(text.strip())
 
     def save(self, path):
@@ -53,17 +55,19 @@ class RecipeGenerator:
         self.model = GPT2LMHeadModel.from_pretrained(path).to(self.device)
         self.tokenizer = GPT2Tokenizer.from_pretrained(path)
         
+        # En el método __init__ o load_model
         if self.tokenizer.pad_token is None:
             self.tokenizer.pad_token = self.tokenizer.eos_token
+            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
     def _extract_recipe_parts(self, text):
         """Extrae el nombre y procedimiento de la receta generada"""
         nombre = ""
         procedimiento = ""
         
         # Buscar el nombre de la receta
-        if "<RECIPE_START>" in text and "<RECIPE_END>" in text:
-            start_idx = text.find("<RECIPE_START>") + len("<RECIPE_START>")
-            end_idx = text.find("<RECIPE_END>")
+        if "<NAME>" in text and "<NAME_END>" in text:
+            start_idx = text.find("<NAME>") + len("<NAME>")
+            end_idx = text.find("<NAME_END>")
             nombre = text[start_idx:end_idx].strip()
         
         # Buscar las instrucciones

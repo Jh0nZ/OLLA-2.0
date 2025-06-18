@@ -125,7 +125,7 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
                 real_receta = sample["procedimiento"]
                 prompt = (
                     f"<INPUTS> {ingredientes} <INPUTS_END>\n"
-                    f"<RECIPE_START> {nombre} <RECIPE_END>\n"
+                    f"<NAME> {nombre} <NAME_END>\n"
                     f"<INSTRUCTIONS> {real_receta} <INSTRUCTIONS_END>"
                 )
                 prompts.append(prompt)
@@ -136,7 +136,7 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
                 return_tensors='pt',
                 padding=True,
                 truncation=True,
-                max_length=128
+                max_length=256
             ).to(generator.device)
                 
             outputs = generator.model(**inputs, labels=inputs['input_ids'])
@@ -178,7 +178,7 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
                     fake_receta = generator.generate(ingredientes)
                 
                 respuesta_real = (
-                    f"<RECIPE_START> {nombre} <RECIPE_END>\n"
+                    f"<NAME> {nombre} <NAME_END>\n"
                     f"<INSTRUCTIONS> {real_receta} <INSTRUCTIONS_END>"
                 )
                 inputs_real = discriminator.tokenizer(
@@ -186,14 +186,14 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
                     return_tensors="pt", 
                     padding=True, 
                     truncation=True,
-                    max_length=128
+                    max_length=256
                 )
                 inputs_fake = discriminator.tokenizer(
                     fake_receta, 
                     return_tensors="pt", 
                     padding=True, 
                     truncation=True,
-                    max_length=128
+                    max_length=256
                 )
                 
                 # Mover a dispositivo
@@ -232,7 +232,7 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
             
             # Generar ejemplo para verificar progreso
             sample_ingredients = "carne molida, tomate, cebolla, arroz, huevo, papa, pimienta"
-            sample_recipe = generator.generate(sample_ingredients, max_length=128)
+            sample_recipe = generator.generate(sample_ingredients, max_length=256)
             print(f"  Ejemplo generado: {sample_recipe}...")
             print("-" * 50)
 
