@@ -43,6 +43,8 @@ class RecipeGenerator:
             )
         
         text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+        # para entrenar
+        # return text.strip()
         return self._extract_recipe_parts(text.strip())
 
     def save(self, path):
