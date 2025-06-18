@@ -21,7 +21,7 @@ class RecipeDiscriminator(nn.Module):
             token_type_ids=token_type_ids
         )
         pooled_output = output.pooler_output
-        return self.classifier(pooled_output)
+        return self.classifier(pooled_output).squeeze()
 
 class DiscriminatorWrapper:
     def __init__(self):
@@ -31,8 +31,7 @@ class DiscriminatorWrapper:
 
     def predict(self, text):
         inputs = self.tokenizer(text, return_tensors='pt', padding=True, truncation=True).to(self.device)
-        with torch.no_grad():
-            score = self.model(**inputs).item()
+        score = self.model(**inputs)
         return score
 
     def save(self, path):

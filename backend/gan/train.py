@@ -112,10 +112,10 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
             batch = real_data[i:i+batch_size]
             
             generator.model.train()
-            discriminator.model.eval()  # Congelamos el discriminador para este paso
+            #discriminator.model.eval()  # Congelamos el discriminador para este paso
             optimizer_gen.zero_grad()
             
-            gen_loss = 0.0
+            #gen_loss = 0.0
             
             # Construir prompts para todo el batch
             prompts = []
@@ -148,13 +148,13 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
             disc_scores = []
             for text in generated_texts:
                 score = discriminator.predict(text)  # Asumimos que devuelve un escalar float
-                disc_scores.append(score)
+                disc_scores.append(score.squeeze())
             
-            disc_scores_tensor = torch.tensor(disc_scores, dtype=torch.float, device=discriminator.device).unsqueeze(1)
+            disc_scores_tensor = torch.stack(disc_scores).unsqueeze(1)
             real_labels = torch.ones_like(disc_scores_tensor)
             
             adversarial_gen_loss = adversarial_loss(disc_scores_tensor, real_labels)
-
+            
             total_gen_batch_loss = lm_loss + 0.1 * adversarial_gen_loss
             total_gen_batch_loss.backward()
             optimizer_gen.step()
@@ -173,7 +173,7 @@ def train(epochs: int = 50, lr_gen: float = 5e-5, lr_disc: float = 1e-5, batch_s
                 nombre = sample["receta"]
                 
                 # Generar receta sintética
-                generator.model.eval() # se pausa el generador para este paso
+                #generator.model.eval() # se pausa el generador para este paso
                 with torch.no_grad():
                     fake_receta = generator.generate(ingredientes)
                 
