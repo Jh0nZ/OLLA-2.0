@@ -31,7 +31,7 @@ class RecipeGenerator:
                 inputs, 
                 max_length=max_length,
                 min_length=64,
-                num_return_sequences=1,
+                num_return_sequences=3,
                 do_sample=True,
                 temperature=temperature,
                 top_k=50,
